@@ -14,7 +14,7 @@ npm run preview   # previsualizar build
 
 **.env.example**
 ```env
-VITE_API_BASE=http://localhost:3000
+
 ```
 
 ## 📦 Deploy
