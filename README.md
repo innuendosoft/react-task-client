@@ -2,7 +2,7 @@
 
 Cliente en **React (Vite)** que consume la **Node API Tasks** (CRUD de tareas).
 - Lista tareas, crea y elimina.
-- Configurable vía variable `VITE_API_BASE` (por defecto `http://localhost:3000`).
+- Configurable vía variable `VITE_API_BASE`.
 
 ## 🚀 Scripts
 ```bash
